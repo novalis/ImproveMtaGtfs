@@ -1,4 +1,4 @@
-from_stop_id,to_stop_id,transfer_type
+from_stop_id,to_stop_id,transfer_type,min_transfer_time
 112,A09,0,
 125,A24,0,
 127,725,0,
@@ -84,7 +84,6 @@ F09,G22,0,
 F11,630,0,
 F15,M18,0,
 F23,R33,2,100
-from_stop_id,to_stop_id,transfer_type,min_transfer_time
 G14,710,0,
 G22,719,0,
 G22,F09,0,
